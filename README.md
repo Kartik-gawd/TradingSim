@@ -20,7 +20,10 @@ A web-based trading simulator that replicates the experience of real trading usi
 
 ## 📷 Screenshots
 
-*(Add screenshots here if available)*
+## 📸 Screenshot
+
+![Trading Dashboard](image.png)
+
 
 ## 🎯 Use Cases
 
