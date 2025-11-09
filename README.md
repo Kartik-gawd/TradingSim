@@ -1,5 +1,3 @@
-# TradingSim
-A browser-based trading simulator that mimics real-world long and short position strategies using fake currency. Users can add funds freely, execute trades, and track session-based profit and loss (PnL). Ideal for learning trading mechanics without financial risk.
 # 💹 Trading Simulator
 
 A web-based trading simulator that replicates the experience of real trading using virtual currency. Perfect for beginners, hobbyists, or anyone looking to practice long and short strategies without risking actual money.
@@ -14,11 +12,7 @@ A web-based trading simulator that replicates the experience of real trading usi
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript (or React if applicable)
-- **Backend:** Node.js / Express (if applicable)
-- **State Management:** Local/session storage or backend DB (depending on implementation)
-
-## 📷 Screenshots
+- **Frontend:** HTML, CSS, JavaScript
 
 ## 📸 Screenshot
 
@@ -28,14 +22,16 @@ A web-based trading simulator that replicates the experience of real trading usi
 ## 🎯 Use Cases
 
 - Learn how long and short positions work
-- Practice trading strategies risk-free
 - Visualize profit/loss outcomes in real time
 - Build intuition for market behavior
 
-## 🧑‍💻 Getting Started
+## 🔮 Future Features
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/trading-simulator.git
-cd trading-simulator
+- 📉 Stop-loss / Take-profit	Simulate automated exit strategies to manage risk and lock in profits
+- 📊 Chart Integration	Visualize price movements and PnL using Chart.js or similar libraries
+- 🧾 Trade History Export	Download session logs as CSV or JSON for analysis
+- 🧠 Strategy Sandbox	Test predefined trading strategies like scalping, swing, or trend-following
+- 🌐 Real-time Market Feed (Optional)	Integrate live data for realism (with toggle for offline mode)
+- 📱 Mobile Optimization	Ensure responsive layout and usability on phones and tablets
+- 🧮 Advanced Metrics	Show win/loss ratio, max drawdown, average return per trade
+- 🧑‍🏫 Tutorial Mode	Guide new users through basic trading concepts and simulator controls
